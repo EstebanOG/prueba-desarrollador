@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg15232"
+   width="758"
+   height="413"
+   viewBox="0 0 758 413"
+   sodipodi:docname="group.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15236" />
+  <sodipodi:namedview
+     id="namedview15234"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.176781"
+     inkscape:cx="379"
+     inkscape:cy="206.49552"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="93"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15351" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g15238">
+    <g
+       id="g15351">
+      <image
+         width="758"
+         height="413"
+         preserveAspectRatio="none"
+         xlink:href="group.png"
+         id="image15240" />
+      <ellipse
+         style="opacity:0.99;fill:#006b39"
+         id="person5"
+         cx="365.82849"
+         cy="99.423775"
+         rx="13.171525"
+         ry="11.896861" />
+      <ellipse
+         style="opacity:0.99;fill:#006b39"
+         id="person3"
+         cx="118.11882"
+         cy="237.93723"
+         rx="13.171525"
+         ry="11.896861" />
+      <ellipse
+         style="opacity:0.99;fill:#006b39"
+         id="person2"
+         cx="93.475349"
+         cy="150.41031"
+         rx="13.171525"
+         ry="11.896861" />
+      <ellipse
+         style="opacity:0.99;fill:#006b39"
+         id="person4"
+         cx="357.75562"
+         cy="263.43051"
+         rx="13.171525"
+         ry="11.896861" />
+    </g>
+  </g>
+</svg>
