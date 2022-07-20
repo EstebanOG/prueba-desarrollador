@@ -3,13 +3,13 @@
     <v-container class="lighten-5">
       <v-row :align="align" no-gutters>
         <v-col cols="12" sm="6" md="8">
-          <h2>Bienvenido al curso:</h2>
-          <h1>Emprendedores y emprendimiento</h1>
-          <h1>de El Salvador y la región</h1>
+          <h2 class="animate__animated animate__bounceInLeft">Bienvenido al curso:</h2>
+          <h1 class="animate__animated animate__bounceInLeft animate__delay-1s">Emprendedores y emprendimiento</h1>
+          <h1 class="animate__animated animate__bounceInLeft animate__delay-1s">de El Salvador y la región</h1>
         </v-col>
         <v-col cols="6" md="4">
           <router-link to="/information">
-            <v-img height="70%" width="70%" src="../assets/home_btn.png" class="v-img-home">
+            <v-img height="70%" width="70%" src="../assets/home_btn.png" class="v-img-home animate__animated animate__heartBeat animate__repeat-2">
             </v-img>
           </router-link>
         </v-col>
